@@ -1,0 +1,56 @@
+
+input[type=text],[type=password]{
+    width: 90%;
+    height: auto;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: lightgrey;
+    border-bottom-color: yellow;
+    padding: 7px;
+    margin: 8px;
+    font-family: default;
+    font-size: 14px;
+    background: transparent;
+}
+
+.fit{
+    width: 80%;
+    float: left;
+}
+
+input[type=submit]{
+    background-color:  #e6b800;
+    border-color: black;
+    width: 50%;
+    height: auto;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 7px;
+    margin: 8px;
+    font-family: garamond;
+    font-size: 17px;
+    border-width: 0.5px;
+}
+
+.signup{
+    margin-top: 10%;
+    background-color: lightgrey;
+    width: 30%;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+button{
+    background-color:  #e6b800;
+    border-color: black;
+    width: 55%;
+    height: 30px;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 2px;
+    margin: 8px;
+    font-family: garamond;
+    font-size: 14px;
+    border-width: 0.5px;
+    background: rgba(255, 255, 255, 0);
+}
